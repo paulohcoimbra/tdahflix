@@ -15,6 +15,7 @@ export const Wrapper = styled.div`
 `
 
 export const Arrow = styled.button`
+  display: none;
   position: absolute;
   height: 40rem;
   width: 40rem;
@@ -25,15 +26,23 @@ export const Arrow = styled.button`
   border-radius: 50%;
   cursor: pointer;
   z-index: 1;
-  ${( { left } ) => 
+
+  ${({ show }) =>
+    show &&
+    css`
+      display: block;
+    `
+  }
+
+  ${( { left} ) => 
     left &&
     css`
       left: 10rem;
       transform: rotateY(180deg);
     `}
 
-  ${( { right } ) => 
-    right &&
+  ${( { right} ) => 
+    right && 
     css`
       right: 10rem;
     `}

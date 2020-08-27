@@ -45,6 +45,38 @@ const videos = [
     videoTitle: "13 Best Super Nintendo Role Playing Games",
     videoTime: "06:45",
   },
+  {
+    src: snesThumb,
+    alt: "thumb do video SNESdrunk",
+    avatar: snesAvatar,
+    channelName: "SNES drunk",
+    videoTitle: "13 Best Super Nintendo Role Playing Games",
+    videoTime: "06:45",
+  },
+  {
+    src: snesThumb,
+    alt: "thumb do video SNESdrunk",
+    avatar: snesAvatar,
+    channelName: "SNES drunk",
+    videoTitle: "13 Best Super Nintendo Role Playing Games",
+    videoTime: "06:45",
+  },
+  {
+    src: snesThumb,
+    alt: "thumb do video SNESdrunk",
+    avatar: snesAvatar,
+    channelName: "SNES drunk",
+    videoTitle: "13 Best Super Nintendo Role Playing Games",
+    videoTime: "06:45",
+  },
+  {
+    src: snesThumb,
+    alt: "thumb do video SNESdrunk",
+    avatar: snesAvatar,
+    channelName: "SNES drunk",
+    videoTitle: "13 Best Super Nintendo Role Playing Games",
+    videoTime: "06:45",
+  },
 ]
 
 export default function Home() {
