@@ -68,8 +68,8 @@ export const CarouselStyle = styled.div`
   display: flex;
   align-self: flex-start;
 
-  /* overflow: hidden; */
-  
+  overflow: hidden;
+  padding-top: 20rem;
   & ${WrapperThumb} {
     width: var(--thumb-width);
 

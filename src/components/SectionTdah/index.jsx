@@ -7,11 +7,9 @@ const SectionTdah = styled.section`
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100vw;
 
   & > ${TagTdah} {
     align-self: flex-start;
-    margin-bottom: 20rem;
   }
 
   @media (max-width: 360px) {

@@ -57,6 +57,11 @@ html, body {
 
 #root {
 	display: flex;
-	flex-direction: column;
 	min-height: 100vh;
+	flex-direction: column;
+	background: url('../assets/img/ps5.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
+	position: absolute;
+	z-index: 0;
 }

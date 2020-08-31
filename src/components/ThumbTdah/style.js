@@ -32,7 +32,7 @@ export const Thumb = styled.img`
 
 export const WrapperThumb = styled.figure`
     position: relative;
-    width: 500px;
+    width: 450px;
     overflow: hidden;
     cursor: pointer;
     transition: transform 50ms linear;
