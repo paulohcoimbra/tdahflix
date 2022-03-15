@@ -1,5 +1,5 @@
 const container = `
-    max-width: 1200px;
+    max-width: 100vw;
     margin: 20rem 30rem;
 `
 

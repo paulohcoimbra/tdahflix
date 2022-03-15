@@ -9,7 +9,7 @@ const Header = styled.header`
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,0.7697841726618705) 50%, rgba(0,0,0,0) 100%); 
     z-index: 1;
-    
+    //max-width: 100vw;
     @media(max-width: 800px) {
         justify-content:center;
 

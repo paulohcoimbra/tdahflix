@@ -5,7 +5,7 @@ export const Timer = styled.span`
     position: absolute;
     right: var(--space);
     bottom: var(--space);
-    font-size: 15rem;
+    font-size: 12rem;
     color: var(--color-gray-light);
     /* background-color: #333333; */
     padding: 2rem 4rem;
@@ -33,6 +33,7 @@ export const Thumb = styled.img`
 export const WrapperThumb = styled.figure`
     position: relative;
     width: 450px;
+    min-height: 110px;
     overflow: hidden;
     cursor: pointer;
     transition: transform 50ms linear;
@@ -53,10 +54,10 @@ export const WrapperThumb = styled.figure`
 `;
 
 export const Background = styled.div`
-    --space: 10rem;
+    --space: 5rem;
     --move-space: calc(var(--space) *-1);
 
-    background-color: var(--color-default);
+    
     position: relative;
     margin-right: 10rem;
 
@@ -87,6 +88,7 @@ export const Background = styled.div`
     }
 
     &:hover {
+        background-color: var(--color-default);
         &::before {
             transform: rotate(45deg) scale(1);
         }

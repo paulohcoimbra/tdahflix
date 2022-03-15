@@ -25,13 +25,13 @@ export default function CarouselTdah({ videos }) {
     <CarouselStyle>
       <Arrow onClick={() => action(-1)} left show={leftShow()}/>
       <Wrapper move={move}>
-      {videos.map(({ src, alt, avatar, channelName, videoTitle, videoTime }) => (
+      {videos.map(({ src, alt, avatar, channelName, title, videoTime }) => (
         <ThumbTdah
         src={src}
         alt={alt}
         avatar={avatar}
         channelName={channelName}
-        videoTitle={videoTitle}
+        videoTitle={title}
         videoTime={videoTime}
         />
         ))}

@@ -9,9 +9,6 @@ import Header from './components/Header';
 import LogoTdahflix from './components/LogoTdahflix';
 import ButtonTdah from './components/ButtonTdah';
 
-import './styles/reset.css';
-import './styles/settings/colors.css';
-
 import FooterTdah from './components/Footer';
 import LinkTdah from './components/LinkTdah';
 import LogoImersao from './components/LogoImersao';
@@ -23,9 +20,9 @@ export default function App() {
           <Link to="/">
             <LogoTdahflix />
           </Link>
-          {/* <Link to="/cadastro/video/">
+          <Link to="/cadastro/video/">
             <ButtonTdah>Novo Vídeo</ButtonTdah>
-          </Link> */}
+          </Link>
         </Header>
         <Switch>
           <Route path="/" exact>
@@ -42,9 +39,6 @@ export default function App() {
           </Route>
         </Switch>
         <FooterTdah>
-          {/* <Link to="/">
-            <LogoTdahflix />
-          </Link> */}
           <p style={{'font-size': '12rem'}}>
             Desenvolvido durante a
             <a href="https://www.alura.com.br/imersao-react" target="_blank" rel="noreferrer" aria-label="Logo"><LogoImersao /></a>

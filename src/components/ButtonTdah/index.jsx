@@ -4,19 +4,17 @@ const ButtonTdah = styled.button`
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
     padding: 12rem 30rem;
     background-color: var(--color-black-dark);
     color: var(--color-gray-light);
     border: 1px solid var(--color-gray-light);
     border-radius: 4px;
-    font-size: 10rem;
+    font-size: 15rem;
     cursor: pointer;
     transition: box-shadow 200ms linear, border 200ms linear, transform 100ms linear;
 
     overflow: hidden;
-
 
     &::before {
         content:'';

@@ -8,13 +8,9 @@ import DescriptionTdah from '../../../components/DescriptionTdah';
 export default function CadastroVideo() {
   return (
     <>
-      <BannerTdah>
-        <Text>
-          {/* <TagTdah>Cadastro de video</TagTdah> */}
-          <TitleTdah>Cadastro de vídeo</TitleTdah>
-          {/* <DescriptionTdah>como tocar guitarra, guitarra, como aprender</DescriptionTdah> */}
-        </Text>
-      </BannerTdah>
+      <form action="">
+        
+      </form>
     </>
   );
 }

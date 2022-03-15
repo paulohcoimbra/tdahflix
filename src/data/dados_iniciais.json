@@ -1,183 +1,337 @@
 {
-  "categorias": [
+  "categories": [
     {
-      "titulo": "Front End",
+      "title": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "color": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "title": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+          "src": "https://i.ytimg.com/vi_webp/ZY3-MFxVdEw/maxresdefault.webp",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "title": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE",
+          "src": "https://i.ytimg.com/vi/c8mVlakBESE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBk0MQa35UiqOF6T42eaXe6If2nrA",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "title": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak",
+          "src": "https://i.ytimg.com/vi/LatCKpcOMak/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAxLD-wK--QqQ58OsLQ6Q3yfKDkCA",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "title": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE",
+          "src": "https://i.ytimg.com/vi/5PS6ku8NzIE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLALDdkogmE9I3ohqFDGr-aWdhfjLA",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "title": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "title": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "title": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "title": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "title": "Back End",
+      "color": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "title": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "title": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "title": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "title": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "title": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "title": "Data Science e Inteligência Artificial",
+      "color": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "title": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "title": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "title": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "title": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "title": "Filmes",
+      "color": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "title": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "title": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"        },
+        {
+          "title": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "title": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "title": "Games",
+      "color": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "title": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "title": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "title": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "title": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "title": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "title": "Aprendendo a aprender tecnologia",
+      "color": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "title": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "title": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "title": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "title": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "title": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be",
+          "src": "",
+          "alt": "Thumb da Alura",
+          "avatar": "https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs",
+          "channelName": "Alura",
+          "videoTime": "06:45"
         }
       ]
     }
