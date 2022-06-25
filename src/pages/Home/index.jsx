@@ -9,9 +9,6 @@ import ThumbTdah from '../../components/ThumbTdah';
 import SectionTdah from '../../components/SectionTdah';
 import CarouselTdah from '../../components/CarouselTdah';
 
-import snesThumb from '../../assets/img/snes_games.jpg';
-import snesAvatar from '../../assets/img/snes_avatar.jpg';
-
 import data from '../../data/dados_iniciais.json'
 
 const getFirst = () => {
@@ -36,11 +33,7 @@ export default function Home() {
           videoTitle={getFirst().videos[0].title}
           videoTime={getFirst().videos[0].videoTime}
         />
-      </BannerTdah>
-      {/* <SectionTdah>
-        <TagTdah small>Programming</TagTdah>
-        <CarouselTdah videos={videos}/>
-      </SectionTdah> */}
+      </BannerTdah>     
       {
         data.categories.map(c => {
           return (
